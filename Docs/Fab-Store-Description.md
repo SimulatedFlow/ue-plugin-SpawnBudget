@@ -177,7 +177,7 @@ built for this release)*
 
 **Documentation:** https://github.com/SimulatedFlow/ue-plugin-SpawnBudget
 
-**Support:** simulatedflow@gmail.com
+**Support:** teufelsilvan@gmail.com
 
 **Important / Additional Notes:**
 Mac and Linux are declared in the plugin's `PlatformAllowList` and the code uses no platform-specific
@@ -259,4 +259,4 @@ build and a multiplayer population story ship.
 
 ---
 
-_© 2026 Simulated Flow. All rights reserved._
+_© 2026 Silvan Teufel. All rights reserved._
