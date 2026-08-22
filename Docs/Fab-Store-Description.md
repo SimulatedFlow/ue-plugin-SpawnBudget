@@ -259,4 +259,4 @@ build and a multiplayer population story ship.
 
 ---
 
-_© 2026 Silvan Teufel. All rights reserved._
+_© 2026 Simulated Flow. All rights reserved._
