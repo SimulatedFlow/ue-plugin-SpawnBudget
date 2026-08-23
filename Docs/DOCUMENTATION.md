@@ -849,11 +849,11 @@ a frame counter. If you see two boxes, you have two HUD actors.
 |---|---|
 | **Documentation** | https://github.com/SimulatedFlow/ue-plugin-SpawnBudget |
 | **Support** | teufelsilvan@gmail.com |
-| **Publisher** | Simulated Flow |
+| **Publisher** | Silvan Teufel |
 
 When reporting an issue, the output of `Spawn.Stats` and `Spawn.Sources` from the moment the problem
 happens answers most of the first round of questions.
 
 ---
 
-_© 2026 Simulated Flow. All rights reserved. Licensed under the Fab Content License Agreement._
+_© 2026 Silvan Teufel. All rights reserved. Licensed under the Fab Content License Agreement._
