@@ -163,11 +163,9 @@ USTRUCTs and 2 UENUMs
 **Network Replicated:** No (spawns through the standard `UWorld::SpawnActor` path, so replicated
 actor classes replicate normally; there is no built-in client/server population negotiation)
 
-**Supported Development Platforms:** Windows *(built and verified)*, macOS and Linux *(enabled in the
-plugin descriptor, not built for this release)*
+**Supported Development Platforms:** Windows *(built and verified)*, macOS and Linux *(not listed in the plugin descriptor, not built for this release)*
 
-**Supported Target Build Platforms:** Win64 *(built and verified)*, Mac and Linux *(enabled, not
-built for this release)*
+**Supported Target Build Platforms:** Win64 *(built and verified)*, Mac and Linux *(not listed in the descriptor, not built for this release)*
 
 **Supported Engine Versions:** Unreal Engine **5.8**
 
@@ -180,7 +178,7 @@ built for this release)*
 **Support:** teufelsilvan@gmail.com
 
 **Important / Additional Notes:**
-Mac and Linux are declared in the plugin's `PlatformAllowList` and the code uses no platform-specific
+Mac and Linux are not declared in the plugin's `PlatformAllowList`; the code uses no platform-specific
 APIs, but only Win64 was built and verified for this release — stated here rather than discovered
 after purchase. The debug ring drawing is compiled out of a Shipping build (`ENABLE_DRAW_DEBUG`); the
 statistics box and all console commands are not. The spawner runs in Game and PIE worlds only, by

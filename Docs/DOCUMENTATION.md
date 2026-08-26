@@ -728,13 +728,13 @@ clicked belongs in a UMG widget calling `USpawnBudgetStatics`.
 
 ### Platforms
 
-The plugin descriptor declares `PlatformAllowList: ["Win64", "Mac", "Linux"]`.
+The plugin descriptor declares `PlatformAllowList: ["Win64"]`.
 
 | Platform | Status |
 |---|---|
 | **Win64** | **Built and verified.** |
-| **Mac** | Enabled in the descriptor, **not built for this release**. |
-| **Linux** | Enabled in the descriptor, **not built for this release**. |
+| **Mac** | Not listed in the descriptor, **not built for this release**. |
+| **Linux** | Not listed in the descriptor, **not built for this release**. |
 
 Nothing in the code is platform-specific — the module depends only on `Core`, `CoreUObject`, `Engine`,
 `DeveloperSettings` and `RenderCore`, and uses no platform APIs, no plugin dependencies and no
