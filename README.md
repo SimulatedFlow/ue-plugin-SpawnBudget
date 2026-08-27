@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Online, free and without an account: <https://wiki.teufel-engineering.com/en/SpawnBudget/documentation> — installation, quick start and the full API.
+Online, free and without an account: <https://github.com/SimulatedFlow/documentation> — installation, quick start and the full API.
 The same manual ships with the plugin under `Docs/`.
 
 <!-- SF-STORE-BLOCK:BEGIN -->
