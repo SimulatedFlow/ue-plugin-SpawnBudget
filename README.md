@@ -1,5 +1,10 @@
 # SpawnBudget
 
+## Documentation
+
+Online, free and without an account: <https://wiki.teufel-engineering.com/en/SpawnBudget/documentation> — installation, quick start and the full API.
+The same manual ships with the plugin under `Docs/`.
+
 <!-- SF-STORE-BLOCK:BEGIN -->
 ## 🛒 Source-available — see before you buy
 
